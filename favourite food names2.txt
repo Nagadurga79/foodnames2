@@ -1,0 +1,12 @@
+favourite food names2
+1.chicken biryani-120
+2.mutton biryani-150
+3.veg biryani-110
+4.chicken noodles-60
+5.egg masala-30
+6.chicken friedrice-60
+7.panipuri-10
+8.eggdosa-20
+9.samosa-5
+10.icecreams-60
+
